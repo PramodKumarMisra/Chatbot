@@ -2,7 +2,7 @@
 #It is chatbot for everyone 
 This Chatbot run into Jupyter_Notebook under  Anaconda-platform
 
-Prerequist:-
+**Prerequist:-**
 
   You need Python(3.7).
   
